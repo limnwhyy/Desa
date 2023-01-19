@@ -1,0 +1,194 @@
+{
+  "galeri": [
+    {
+      "gambar": "./sukamaju/sawit.jpg"
+    },
+    {
+      "gambar": "./sukamaju/sawit2.jpg"
+    },
+    {
+      "gambar": "./sukamaju/jagung2.jpg"
+    },
+    {
+      "gambar": "./sukamaju/gambar1.jpg"
+    },
+    {
+      "gambar": "./sukamaju/gambar7.jpg"
+    }
+  ],
+  "kkn": [
+    {
+      "gambar": "../sukamaju/kkn/Aning Sari_120150087.jpg",
+      "judul": "Aning Sari_120150087"
+    },
+    {
+      "gambar": "../sukamaju/kkn/Gita Etnadya_120390037.png",
+      "judul": "Gita Etnadya_120390037"
+    },
+    {
+      "gambar": "../sukamaju/kkn/Harryara Pangaribuan_120370159.png",
+      "judul": "Harryara Pangaribuan_120370159"
+    },
+    {
+      "gambar" :"../sukamaju/kkn/Aulia_120120045.png",
+      "judul" : "Aulia Fahmi Aziz Nasutioon_120120045"
+    },
+    {
+      "gambar" :"../sukamaju/kkn/Chandra_120240050.png",
+      "judul" : "Chandra Surya Fajar_120240050"
+    }
+  ],
+  "dusun": [
+    {
+      "gambar": "./sukamaju/bola.jpg",
+      "nDesa": "Dusun Sukamaju"
+    },
+    {
+      "gambar": "./sukamaju/sawah.jpg",
+      "nDesa": "Dusun Way Anda"
+    },
+    {
+      "gambar": "./sukamaju/empang1.jpg",
+      "nDesa": "Dusun Mekar Jaya"
+    },
+    {
+      "gambar": "./sukamaju/bola.jpg",
+      "nDesa": "Dusun Banjar Baru"
+    },
+    {
+      "gambar": "./sukamaju/sawit2.jpg",
+      "nDesa": "Dusun Wonosari"
+    }
+  ],
+  "umkm": [
+    {
+      "gambar": "../sukamaju/mebel.jpeg",
+      "nProduk": "Mebel/Panglong",
+      "dProduk": "-",
+      "harga": "Fee/Berbayar",
+      "pesan": "wa.me/6282277611415"
+    },
+    {
+      "gambar": "../sukamaju/bata2.jpg",
+      "nProduk": "Batu Bata",
+      "dProduk": "-",
+      "harga": "Fee/Berbayar",
+      "pesan": "wa.me/6282277611415"
+    },
+    {
+      "gambar": "../sukamaju/kwt.jpeg",
+      "nProduk": "Kelompok Wanita Tani (KWT) ",
+      "dProduk": "Kelompok Wanita Tani atau di singkat Kwt merupakan wadah bagi warga khususnya wanita yang memiliki background pertanian yang bertujuan untuk memberdayakan wanita dalam pertanian.",
+      "harga": "Fee/Berbayar",
+      "pesan": "wa.me/6282277611415"
+    }
+  ],
+  "tanaman": [
+    {
+      "nTanaman": "Karet",
+      "gambar": "../sukamaju/karet.jpg"
+    },
+    {
+      "nama": "Pohon Sawit",
+      "gambar": "../sukamaju/sawit.jpg"
+    },
+    {
+      "nama": "Padi",
+      "gambar": "../sukamaju/sawah2.jpg"
+    },
+    {
+      "nama": "Jagung",
+      "gambar": "../sukamaju/jagung2.jpg"
+    }
+  ],
+  "perangkat": [
+    {
+      "image": "./sukamaju/kades.jpeg",
+      "nama": "Ma'ani,S.Pd",
+      "jabatan": "Kepala Desa Sukamaju",
+      "kontak": "+62 853-0727-0085"
+    },
+    {
+      "image": "./sukamaju/sekdes.jpeg",
+      "nama": "Ahmad Gojali,S.Pd ",
+      "jabatan": "Sekretaris Desa Sukamaju",
+      "kontak": "+62 823-3829-0918"
+    },
+    {
+      "image": "./sukamaju/kadus 1.jpeg",
+      "nama": "Rosidi",
+      "jabatan": "Kepala Dusun Sukamaju ",
+      "kontak": "+62 821-8021-9900"
+    },
+    {
+      "image": "./sukamaju/kadus 2.jpeg",
+      "nama": "Dastim",
+      "jabatan": "Kepala Dusun Way Anda",
+      "kontak": "+62 812-7492-2193"
+    },
+    {
+      "image": "./sukamaju/kadus 3.jpeg",
+      "nama": "Sehudin ",
+      "jabatan": "Kepala Dusun Mekar Jaya",
+      "kontak": " +62 823-7286-6974"
+    },
+    {
+      "image": "./sukamaju/kadus 4.jpeg",
+      "nama": "Napis Kurtubi",
+      "jabatan": "Kepala Dusun Banjar Baru",
+      "kontak": "+62 858-9679-7362"
+    },
+    {
+      "image": "./sukamaju/kadus 5.jpeg",
+      "nama": "Sumar",
+      "jabatan": "Kepala Dusun Wonosari",
+      "kontak": "+62 812-7827-8284"
+    }
+  ],
+  "peternakan": [
+    {
+      "gambar": "./sukamaju/gambar2.jpg",
+      "nHewan": "Sapi",
+      "deskripsi": "-"
+    },
+    {
+      "gambar": "./sukamaju/kambing.jpeg",
+      "nHewan": "Kambing",
+      "deskripsi": "-"
+    }
+  ],
+  "pendidikan": [
+    {
+      "gambar": "./sukamaju/tk.jpg",
+      "nSekolah": "Taman Kanak-kanak (TK)",
+      "Dsekolah": "-"
+    },
+    {
+      "gambar": "./sukamaju/mi.jpg",
+      "nSekolah": "MI (Madrasah Ibtidaiyah)",
+      "Dsekolah": "-"
+    },
+    {
+      "gambar": "./sukamaju/sekolah1.jpg",
+      "nSekolah": "Madrasah TSanawiyah (MTS)",
+      "Dsekolah": "-"
+    }
+  ],
+  "penduduk": [
+    {
+      "laki": "1261",
+      "perempuan": "1.169",
+      "total": "2.430",
+      "kk": "765",
+      "dusun" : "5"
+    }
+  ],
+  "kontak" : [{
+    "facebook" : "https://web.facebook.com/pemdes.sukamajuwaysulan.3",
+    "instagram" : "https://instagram.com/basrunki_",
+    "email" : "desasukamaju@gmail.com",
+    "alamat" : "Sukamaju,Kec.Way Sulan,Lampung Selatan",
+    "telepon" : "+62 823-3829-0918 (sekretaris desa)"
+
+  }]
+}
