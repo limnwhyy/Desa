@@ -161,7 +161,7 @@ const getContact = () => {
               <div class="col-sm-6 col-md-4 text-sm-right text-md-center">
                 <div>
                   <ul class="list-inline list-inline-sm footer-social-list-2">
-                    <li><a class="icon fa fa-instagram" href="${item.instagram}">Create by Basrunki_KKN 143 ITERA 2022/2023</a></li>
+                    <li><a class="icon fa fa-instagram" href="${item.instagram}">Create by KKN ITERA 212 | 2022/2023</a></li>
                   </ul>
                 </div>
               </div>
