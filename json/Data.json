@@ -19,7 +19,7 @@
   "kkn": [
     {
       "gambar": "../sukamaju/kkn/Aning Sari_120150087.jpg",
-      "judul": "Aning Sari_120150087"
+      "judul": "blank"
     },
     {
       "gambar": "../sukamaju/kkn/Gita Etnadya_120390037.png",
@@ -143,6 +143,30 @@
       "nama": "Sumar",
       "jabatan": "Kepala Dusun Wonosari",
       "kontak": "+62 812-7827-8284"
+    },
+    {
+      "image": "./sukamaju/kadus 6.jpeg",
+      "nama": "Suhar",
+      "jabatan": "Kepala Dusun Banjar Baru",
+      "kontak": "+62 812-7827-8284"
+    },
+    {
+      "image": "./sukamaju/kadus 7.jpeg",
+      "nama": "Suhar",
+      "jabatan": "Kepala Dusun Banjar Baru",
+      "kontak": "+62 812-7827-8284"
+    },
+    {
+      "image": "./sukamaju/kadus 8.jpeg",
+      "nama": "Suhar",
+      "jabatan": "Kepala Dusun Banjar Baru",
+      "kontak": "+62 812-7827-8284"
+    },
+    {
+      "image": "./sukamaju/kadus 9.jpeg",
+      "nama": "Suhar",
+      "jabatan": "Kepala Dusun Banjar Baru",
+      "kontak": "+62 812-7827-8284"
     }
   ],
   "peternakan": [
@@ -184,11 +208,11 @@
     }
   ],
   "kontak" : [{
-    "facebook" : "https://web.facebook.com/pemdes.sukamajuwaysulan.3",
-    "instagram" : "https://instagram.com/basrunki_",
-    "email" : "desasukamaju@gmail.com",
-    "alamat" : "Sukamaju,Kec.Way Sulan,Lampung Selatan",
-    "telepon" : "+62 823-3829-0918 (sekretaris desa)"
+    "facebook" : "blank",
+    "instagram" : "blank",
+    "email" : "blank",
+    "alamat" : "Karya Tunggal, Kec. Katibung, Lampung Selatan",
+    "telepon" : "blank (sekretaris desa)"
 
   }]
 }
