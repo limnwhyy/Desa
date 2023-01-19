@@ -140,9 +140,7 @@ const getContact = () => {
                             <span class="icon fa fa-location-arrow"></span>
                           </div>
                           <div class="unit-body">
-                            <a class="link-location" href="#"
-                              >${item.alamat}</a
-                            >
+                          <a class="link-location" href="${item.alamat}">Desa Karya Tunggal, Kec. Katibung, Lampung Selatan.</a>
                           </div>
                         </div>
                       </li>
