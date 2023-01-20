@@ -116,7 +116,7 @@ const getContact = () => {
                             <span class="icon fa fa-phone"></span>
                           </div>
                           <div class="unit-body">
-                            <a class="link-phone" href="tel:#"
+                            <a class="link-phone" href="https://wa.me/6285384200907"
                               >${item.telepon}</a
                             >
                           </div>
@@ -430,12 +430,10 @@ const getPerangkat = () => {
                   </svg>
                 </div>
                 <div class="team-modern-caption">
-                  <h6 class="team-modern-name">
-                    <a href="#">${item.nama}</a>
+                  <h6 class="team-modern-name">${item.nama}
                   </h6>
                   <p class="team-modern-status">${item.jabatan}</p>
-                  <h6 class="team-modern-phone">
-                    <a href="tel:#">${item.kontak}</a>
+                  <h6 class="team-modern-phone">${item.kontak}
                   </h6>
                 </div>
               </article>
